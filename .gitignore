@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+
+
+dist
+.umi
+node_modules
+latex-preview.bat
